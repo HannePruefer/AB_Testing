@@ -23,6 +23,5 @@ An A/B Test is conducted:
 ## Tools used
 - Python with Scipy, Pandas, Seaborn
 
-## Folder structure
-/data - contains the result csv from the AB Test  
-/src - the notebook containing the analysis
+You can find the csvs for the AB testing here
+The notebook with the testing script is here

@@ -23,5 +23,5 @@ An A/B Test is conducted:
 ## Tools used
 - Python with Scipy, Pandas, Seaborn
 
-You can find the csvs for the AB testing here
-The notebook with the testing script is here
+You can find the csvs for the AB testing [here](https://github.com/HannePruefer/AB_Testing/tree/main/data)  
+The notebook with the testing script is [here](https://github.com/HannePruefer/AB_Testing/blob/main/montana.ipynb) 
